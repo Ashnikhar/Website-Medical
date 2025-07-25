@@ -5,7 +5,7 @@ Thanks! Based on your input, here is a complete, polished `README.md` for your *
 ````markdown
 # Adirya Health – Medical Website
 
-A modern, responsive medical website built using **Next.js**, **TypeScript**, and **Tailwind CSS**, designed to showcase health solutions, industry services, and success stories under the Adirya Health brand.
+A modern, responsive medical website built using Next.js, TypeScript, and Tailwind CSS, designed to showcase health solutions, industry services, and success stories under the Adirya Health brand.
 
 🌐 **Live Preview**: [https://website-medical-virid.vercel.app/](https://website-medical-virid.vercel.app/)
 
